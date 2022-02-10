@@ -1,0 +1,13 @@
+src 
+    app 
+        paymentDetails 
+            paymentDetails ts,html,css
+        
+
+
+        shared(for service and model class)
+            paymentDetails.service.ts   
+            paymentDetails.model.ts
+
+
+Index.html (cdn for bootstrap and fa icons)
